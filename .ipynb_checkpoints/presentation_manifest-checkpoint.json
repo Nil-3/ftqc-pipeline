@@ -1,0 +1,11 @@
+{
+    "status": "Complete",
+    "defense_ready": true,
+    "molecules": [
+        "Water",
+        "Carbon Dioxide",
+        "Ammonia",
+        "Aspirin"
+    ],
+    "max_physical_qubits": 9032
+}

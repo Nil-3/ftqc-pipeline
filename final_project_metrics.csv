@@ -1,0 +1,4 @@
+Optimization,Gate Count,Depth
+Unoptimized,1200,800
+ZX-Calculus,450,200
+Hardware-Routed,480,250

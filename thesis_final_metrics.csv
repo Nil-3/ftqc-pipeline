@@ -1,0 +1,17 @@
+Molecule,Code Distance (d),Logical Qubits,Optimized T-Count,Data Qubits,Factory Qubits,Total Physical Qubits
+Water,11,4,16,968,2400,3368
+Water,15,4,16,1800,4800,6600
+Water,19,4,16,2888,4800,7688
+Water,23,4,16,4232,4800,9032
+Carbon Dioxide,11,4,16,968,2400,3368
+Carbon Dioxide,15,4,16,1800,4800,6600
+Carbon Dioxide,19,4,16,2888,4800,7688
+Carbon Dioxide,23,4,16,4232,4800,9032
+Ammonia,11,4,16,968,2400,3368
+Ammonia,15,4,16,1800,4800,6600
+Ammonia,19,4,16,2888,4800,7688
+Ammonia,23,4,16,4232,4800,9032
+Aspirin,11,4,16,968,2400,3368
+Aspirin,15,4,16,1800,4800,6600
+Aspirin,19,4,16,2888,4800,7688
+Aspirin,23,4,16,4232,4800,9032
